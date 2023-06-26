@@ -13,8 +13,16 @@ A MERN Stack project:
 # Deployed on Netlify (but requires database to be opened from server side and start it before running it on Netlify)
 
 - Deployed Successully!!!
+
 ![image](https://github.com/dewan2002/FileShareNow/assets/80190765/6ada19aa-bf25-47e9-98f2-2005b76b2c25)
+
 - Running Successfully after deployment!!
+
 ![image](https://github.com/dewan2002/FileShareNow/assets/80190765/3bdb4dbd-d360-4826-bec6-bd7aa7b7f8ab)
+
 - Datababse used at server side
+
 ![image](https://github.com/dewan2002/FileShareNow/assets/80190765/e0babc0d-4aa2-452d-ac45-655f5bab39e1)
+
+Netlify link: https://filesharenow.netlify.app/
+
